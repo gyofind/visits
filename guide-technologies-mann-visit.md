@@ -3,13 +3,13 @@
 
 ---
 
-## **Introductory Statement: Questions, Themes, and Academic Dialogues**
+## **0. Introductory Statement: Questions, Themes, and Academic Dialogues**
 
 This guide invites you to traverse the **Museo Archeologico Nazionale di Napoli (MANN)** as a **living laboratory of ancient innovation**, where each artifact tells a story of **technical ingenuity, economic networks, and artistic vision**. Unlike traditional guides, this path unfolds **room by room**, encouraging you to **engage with objects as both material evidence and cultural texts**. We will explore how Campania’s artisans, laborers, and elites **shaped and were shaped by** the technologies of their time—from the **forging of Samnite swords** to the **painting of Pompeii’s frescoes**, the **casting of bronze statues** to the **weaving of linen tunics**.
 
 ---
 
-### **Core Questions**
+### **0.1 Core Questions**
 1. **How did technical mastery reflect—and drive—social and economic change?**
    - What do **alloy compositions in Samnite weaponry** reveal about **trade and warfare**?
    - How did **construction techniques** like *opus reticulatum* enable **urban expansion and imperial control**?
@@ -32,7 +32,7 @@ This guide invites you to traverse the **Museo Archeologico Nazionale di Napoli 
 
 ---
 
-### **Themes and Academic Dialogues**
+### **0.2 Themes and Academic Dialogues**
 The guide is structured around **four interwoven themes**, each explored through **technical, socio-economic, and artistic lenses**:
 
 1. **Materials and Mastery**
@@ -57,7 +57,7 @@ The guide is structured around **four interwoven themes**, each explored through
 
 ---
 
-### **Structure of the Guide**
+### **0.3 Structure of the Guide**
 The guide follows a **sequential path** through the MANN, with each section:
 1. **Focusing on 1–2 key artifacts** in the room.
 2. **Guiding your gaze** to **telling details** (e.g., alloy seams in bronze, brushstrokes in frescoes, tool marks in leather).
@@ -75,7 +75,7 @@ Practical notes (e.g., room locations, estimated times) are **telegraphic and un
 
 ---
 
-### **1. Farnese Collection: Bronze, Marble, and the Politics of Craft**
+### **1.1. Farnese Collection: Bronze, Marble, and the Politics of Craft**
 **Key Artifact: *Farnese Hercules* (inv. 6001)**
 Stand before the *Farnese Hercules*, a **towering bronze statue** of the demigod poised after his labors. Observe the **musculature’s lifelike tension**, the **delicate rendering of veins and sinews**, and the **contrasting textures** of skin and lion’s pelt. These details are not merely artistic flourishes but **evidence of technical mastery**:
 
@@ -112,7 +112,7 @@ Stand before the *Farnese Hercules*, a **towering bronze statue** of the demigod
 
 ---
 
-### **2. Samnite Wars Room: Iron, Bronze, and the Economics of Conflict**
+### **1.2. Samnite Wars Room: Iron, Bronze, and the Economics of Conflict**
 **Key Artifact: Samnite Sword and Helmet (inv. 6789, 6801)**
 Move to the **Samnite Wars Room**, where the **weapons and armor** of Rome’s Italian rivals offer a **stark contrast** to the Farnese bronzes. Focus on the **Samnite sword** (inv. 6789) and **helmet** (inv. 6801), both from the **4th–3rd centuries BCE**. These objects embody the **technical and economic pressures** of warfare:
 
@@ -149,7 +149,7 @@ Move to the **Samnite Wars Room**, where the **weapons and armor** of Rome’s I
 
 ---
 
-### **3. Mosaic Gallery: Tessellation as Technology and Narrative**
+### **1.3. Mosaic Gallery: Tessellation as Technology and Narrative**
 **Key Artifact: *Alexander Mosaic* (inv. 10017)**
 Proceed to the **Mosaic Gallery**, where the *Alexander Mosaic* awaits—a **masterpiece of technical and narrative artistry**. This **battle scene** between Alexander the Great and Darius III of Persia is composed of **millions of tiny tesserae** (1–4mm cubes of marble, glass, and stone). Stand close to observe the **individual tiles**, then step back to appreciate the **illusion of depth and movement**:
 
@@ -197,7 +197,7 @@ The next section will take you to the **First Floor: Daily Life and Economic Net
 
 ---
 
-### **1. Daily Life Section: The Invisible Economy of Textiles and Tools**
+### **2.1. Daily Life Section: The Invisible Economy of Textiles and Tools**
 **Key Artifact: Loom Weights and Spindles (inv. 18005, 18015)**
 
 Stand before the **loom weights and spindles** in the Daily Life section. These unassuming objects—**clay weights for tensioning warp threads** and **bone/wooden spindles for spinning**—are the **silent witnesses** to Campania’s **textile economy**, a sector dominated by women and enslaved laborers. Observe the **wear patterns on the spindle whorls** and the **standardized shapes of the loom weights**: these details reveal a **highly organized, if often invisible, industry**.
@@ -239,7 +239,7 @@ Wild (2002) argues that **textile production was largely household-based**, citi
 
 ---
 
-### **2. Glass and Cameo Collection: Luxury and Innovation in a Fragile Medium**
+### **2.2. Glass and Cameo Collection: Luxury and Innovation in a Fragile Medium**
 **Key Artifact: *Portland Vase* (inv. 12351)**
 
 Move to the **Glass and Cameo Collection**, where the **Portland Vase** stands as a **masterpiece of cameo glass technique**. This **dark blue vase with white figures** depicts a **mythological scene** (likely Achilles and Thetis) and represents the **pinnacle of Roman glassmaking**. Observe the **precision of the carved figures** and the **translucency of the glass**—achieved through a **multi-layered process** that remains **one of antiquity’s most complex techniques**.
@@ -285,7 +285,7 @@ Foy and Nenna (2001) argue that the **Portland Vase** was likely **produced in R
 
 ---
 
-### **3. Economic Life Section: The Backbone of Trade and Urbanization**
+### **2.3. Economic Life Section: The Backbone of Trade and Urbanization**
 **Key Artifact: Amphorae (inv. 12500–12510)**
 
 Proceed to the **Economic Life section**, where **amphorae, lead pipes, and bronze fittings** offer a **material history of Campania’s trade and infrastructure**. Focus on the **amphorae**—standardized **transport jars** that connected Campania to the **Mediterranean economy**. Note their **uniform shapes**, **stamps**, and **residues**: these details tell stories of **wine, oil, and the logistics of empire**.
@@ -339,7 +339,7 @@ The next section will take you to the **Second Floor: Pompeii/Herculaneum and Fr
 
 ---
 
-### **1. Pompeii/Herculaneum Section: Carbonized Life and the Archaeology of Disaster**
+### **3.1. Pompeii/Herculaneum Section: Carbonized Life and the Archaeology of Disaster**
 **Key Artifact: Carbonized Loom Weights and Fabrics (inv. 18050, 18060)**
 
 Enter the **Pompeii/Herculaneum section**, where the **carbonized remnants of daily life**—**fabrics, leather, wood, and tools**—offer a **hauntingly intimate** glimpse into the **moment of the eruption in 79 CE**. Focus on the **loom weights and carbonized fabrics** (inv. 18050, 18060). These objects, **preserved by volcanic ash**, reveal not only **technical details** of textile production but also the **human scale of the disaster**.
@@ -381,7 +381,7 @@ The **concentration of loom weights in Pompeii’s homes** (e.g., **House of the
 
 ---
 
-### **2. Frescoes and Stucco Gallery: Illusion and Identity in Pompeii’s Walls**
+### **3.2. Frescoes and Stucco Gallery: Illusion and Identity in Pompeii’s Walls**
 **Key Artifact: Fourth Style Frescoes from the House of the Vettii (inv. 11003, 11005)**
 
 Step into the **Frescoes and Stucco Gallery**, where the **Fourth Style frescoes from the House of the Vettii** transport you into the **visual world of Pompeii’s elite**. These **vibrant, intricate murals** are not merely decorative but **technical and narrative masterpieces**, blending **architecture, mythology, and daily life** into a **single, immersive space**. Focus on the **fresco of Terentius Neo and his wife** (inv. 11003), a **portrait of a middle-class couple** that reveals as much about **social aspirations** as it does about **artistic technique**.
@@ -428,7 +428,7 @@ Dunbabin (1999) argues that the **Fourth Style** was a **Campanian innovation**,
 
 ---
 
-### **3. Villa dei Misteri: Ritual, Realism, and the Sacred in Daily Life**
+### **3.3. Villa dei Misteri: Ritual, Realism, and the Sacred in Daily Life**
 **Key Artifact: Frescoes from the Villa dei Misteri (inv. 11008)**
 
 Enter the **Villa dei Misteri section**, where the **frescoes from the eponymous villa** in Pompeii present one of the **most enigmatic and debated** artistic programs of antiquity. These **life-sized figures**—**women, satyrs, and winged figures**—engaged in **ritualistic acts** have sparked **centuries of interpretation**. Focus on the **central scene** (inv. 11008), where a **young woman undergoes initiation** into what may be a **Dionysian cult**. The **realism of the figures**, the **vibrant pigments**, and the **narrative ambiguity** make this a **masterclass in technical and symbolic complexity**.
@@ -494,7 +494,7 @@ This concludes the **three-section exploration** of **Pompeii/Herculaneum and th
 
 ---
 
-### **1. Architectural Fragments Gallery: The Bones of Campania**
+### **4.1. Architectural Fragments Gallery: The Bones of Campania**
 **Key Artifact: *Opus Reticulatum* Wall Fragment (inv. 15100)**
 
 As you enter the **Architectural Fragments Gallery**, you are surrounded by the **skeletal remains of Campania’s built environment**: **marble columns, stucco reliefs, and *opus reticulatum* walls**. These fragments, though **less visually striking** than frescoes or bronzes, are the **foundational technologies** that enabled **urban life, imperial power, and artistic expression**. Focus on the ***opus reticulatum* wall fragment** (inv. 15100), a **quintessential Roman innovation** that transformed construction—and, with it, **society, economy, and culture**.
@@ -541,7 +541,7 @@ DeLaine (2017) argues that *opus reticulatum* was a **Campanian invention**, cit
 
 ---
 
-### **2. Closing Reflections: Technologies as Cultural Texts**
+### **4.2. Closing Reflections: Technologies as Cultural Texts**
 As you conclude your visit, take a moment to **reflect on the themes** that have unfolded across the MANN’s galleries. The artifacts you’ve encountered are not merely **relics of the past** but **active participants in the stories** of **innovation, labor, and identity**. Here are some **final questions** to carry with you:
 
 #### **Themes Revisited**
@@ -582,7 +582,7 @@ As you leave the museum, consider **one artifact that resonated with you**. How 
 ---
 ## Appendices
 
-### **Glossary**
+### **A1. Glossary**
 
 #### **Materials and Techniques**
 - **Opus reticulatum**: A Roman brickwork technique using pyramidal tuff blocks arranged in a diagonal grid, filled with mortar. It allowed for stronger, lighter walls and was a Campanian innovation later adopted across the Roman world.
@@ -612,7 +612,7 @@ As you leave the museum, consider **one artifact that resonated with you**. How 
 
 ---
 
-### **Consolidated References**
+### **A2. Consolidated References**
 
 - Adam, J.-P. (1994). *Roman Building: Materials and Techniques*. Bloomsbury.
 - Béarat, H. (1996). *Peintures murales romaines*. École Française de Rome.
@@ -635,7 +635,7 @@ As you leave the museum, consider **one artifact that resonated with you**. How 
 
 ---
 
-### **Appendix 1: Guide Outline and Visit Path**
+### **A3 Appendix: Guide Outline and Visit Path**
 
 #### **Guide Outline: "Technologies of Art and Life in Campania"**
 A Sequential, Room-by-Room Exploration of Technical Mastery, Economic Networks, and Artistic Innovation
@@ -678,7 +678,7 @@ The guide follows a **sequential path** through the MANN, with each section:
 
 ---
 
-### **Appendix 2: Scholarly Debates Revisited**
+### **A4. Appendix: Scholarly Debates Revisited**
 
 1. **Origins of Campanian Metallurgy**
    - **Samnite Innovation vs. Etruscan/Greek Influence**: Recent trace element studies (Lattanzi 2018) suggest a hybrid model, with local experimentation alongside imported knowledge. The debate centers on whether Samnite smiths were innovators or adapters of existing techniques.
